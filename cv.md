@@ -47,7 +47,7 @@ Basic knowledge
 
 ## Work experience
 
-- RS School «JavaScript/Front-end. Stage 0» https://github.com/Olha-SOVa/rsschool-cv.git
+- RS School «JavaScript/Front-end. Stage 0» https://olha-sova.github.io/rsschool-cv/cv
 
 - Stepik "Веб-разработка для начинающих: HTML и CSS" (file:///D:/Input/HTML%20Stepik/DZ%201/index.html) [HTML проэкт "Хьюстон"]
 - Stepik "Основы HTML и CSS"
